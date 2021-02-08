@@ -1,0 +1,39 @@
+.buttons{
+    padding-top: 15px;
+}
+.item{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    margin: auto;
+}
+.international{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    color:purple
+}
+.domestic{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+.international_none{
+    display:none;
+}
+.domestic_none{
+    display: none;
+}
+.data{
+    display: none;
+}
+
+.parent{
+    align-items: center;
+    align-content: center;
+    margin-left:40% ;
+}
+
+header{
+    text-align: center;
+}

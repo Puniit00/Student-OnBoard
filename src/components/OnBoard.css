@@ -1,0 +1,29 @@
+
+
+.ckbox{
+    display: inline-block;
+}
+
+.form label{
+    margin-bottom: 8px;
+    display: inline-block;
+    width: 250px;
+    
+}
+
+.inpt{
+    margin-bottom: 8px;
+    display: inline-block;
+    width: 310px;
+    height:20px
+}
+
+.documents{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 8px;
+}
+
+header{
+    text-align: center;
+}
